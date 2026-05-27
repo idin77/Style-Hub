@@ -1,0 +1,6 @@
+{
+  "name": "Stylehub Fashion",
+  "description": "Modern, premium, clean, elegant, and minimal luxury fashion store website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
